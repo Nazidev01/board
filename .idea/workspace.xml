@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="88d96224-7056-4b67-bbce-2d5c0e5e8729" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PPvIAe6JBf8Cz7T1Id2BwYVn9F" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88d96224-7056-4b67-bbce-2d5c0e5e8729" name="Changes" comment="" />
+      <created>1683371448514</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683371448514</updated>
+      <workItem from="1683371449531" duration="6202000" />
+      <workItem from="1683439957369" duration="31000" />
+      <workItem from="1683440755604" duration="140000" />
+      <workItem from="1683441073369" duration="98000" />
+      <workItem from="1683441443512" duration="358000" />
+      <workItem from="1683447480947" duration="28000" />
+      <workItem from="1683448340673" duration="22000" />
+      <workItem from="1683472845269" duration="1015000" />
+      <workItem from="1683542583447" duration="12000" />
+      <workItem from="1683542848625" duration="64000" />
+      <workItem from="1683544294201" duration="43000" />
+      <workItem from="1683545021816" duration="148000" />
+      <workItem from="1683557167661" duration="2000" />
+      <workItem from="1683557372085" duration="25000" />
+      <workItem from="1683642381928" duration="104000" />
+      <workItem from="1683704667663" duration="28000" />
+      <workItem from="1683792107225" duration="922000" />
+      <workItem from="1683793333308" duration="1665000" />
+      <workItem from="1683888404178" duration="19000" />
+      <workItem from="1685365409067" duration="54000" />
+      <workItem from="1685422771347" duration="17000" />
+      <workItem from="1685422832313" duration="127000" />
+      <workItem from="1685423344387" duration="46000" />
+      <workItem from="1685532024007" duration="13000" />
+      <workItem from="1685532083917" duration="4000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
